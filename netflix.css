@@ -1,0 +1,235 @@
+
+body{
+    margin: 0px;
+    height: 2000px;
+    font-family:  Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+
+}
+.part-one{
+    background-image:linear-gradient(0deg,rgba(0,0,0,1.8) 0,transparent 60%,rgba(0,0,0,1.8)), url("back.jpg");
+    width: 100%;
+    height: 700px;
+    position: relative;
+    background-size: cover;
+    padding-top: 2px;
+    border-bottom: 8px solid #484545;
+    display: block;
+    
+    
+    
+}
+.head{
+    position: relative;
+    width: 100%;
+    height: 53px;
+    margin-top: 33px;
+    
+}
+
+.h-button{
+    width: 85px;
+    height: 34px;
+    float: right;
+    margin-top: 16px;
+    margin-right: 63px;
+    background-color: #e50914;
+    background-image: linear-gradient(180deg,#e50914,#db0510);
+    border: none;
+    color: white;
+    font-size: 18px;
+    border-radius: 2px;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    
+}
+.head select{
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    float: right;
+    margin-right: 40px;
+    margin-top: 16px;
+    width: 85px;
+    height: 34px;
+    font-size: 18px;
+    border-radius: 2px;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+    
+}
+.body-one{
+    position: relative;
+    padding: 75px;
+    text-align: center;
+    color: white ;
+    margin-top: -65px;
+    
+
+}
+.tittle{
+    font-size: 3.125rem;
+    width: 623px;
+    text-align: center;
+    font-weight: bold;
+    font-family: Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    padding-top: 82px;
+    padding-left: 284px;
+}
+.subtitle{
+    font-size: 1.625rem;
+    margin: 1rem;
+    font-family:  Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 400;
+}
+.form-mail{
+    padding-top: 0.85rem;
+    display: flex;
+    flex-direction: column;
+    font-size: 1.27rem;
+    
+    padding-bottom: 20px;
+    font-family:  Netflix Sans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    color: white;
+    
+    
+}
+.part-two{
+    width: 100%;
+    height: 450px;
+    background-color: black;
+    display: block;
+    border-bottom: 8px solid #484545;
+}
+.tittle-two{
+    width: 60%;
+    float: left;
+    
+    color: white;
+    height: 450px;
+}
+.tittle-two-one{
+    font-size: 3.125rem;
+    line-height: 1.1;
+    margin-bottom: 0.5rem;
+    padding-left: 120px;
+    padding-top: 100px;
+}
+.tittle-two-two{
+    font-size: 1.625rem;
+    font-weight: 400;
+    padding-left: 120px;
+}
+.image-two{
+    width: 40%;
+    float: left;
+    
+}
+.image-two-one{
+    position: absolute;
+    margin-left: -425px;
+    width: 491px;
+    margin-top: 53px;
+}
+.image-two-two{
+    position: relative;
+    width: 362px;
+    height: 300px;
+    padding-left: 60px;
+    padding-top: 80px;
+    
+}
+.part-three{
+    width: 100%;
+    height: 450px;
+    background-color: black;
+    display: block;
+    border-bottom: 8px solid #484545;
+}
+.part-three-one{
+    float: left;
+}
+.part-three-two{
+    float: left;
+    padding-top: 150px;
+    padding-left: 80px;
+    
+}
+.part-three-twoh1{
+    color: white;
+    font-size: 3.125rem;
+    line-height: 1.1;
+    margin-bottom: 0.5rem;
+    margin: auto;
+}
+.part-three-twoh2{
+    color: white;
+    font-size: 1.625rem;
+    font-weight: 400;
+    margin: auto;
+}
+.part-four{
+    width: 100%;
+    height: 450px;
+    background-color: black;
+    display: block;
+    border-bottom: 8px solid #484545;
+    position: relative;
+}
+.part-four-one{
+    float: left;
+    width: 50%;
+    text-align: center;
+    padding-top: 150px;
+}
+.part-four-two{
+    float: left;
+    width: 50%;
+}
+.part-five-one{
+    float: left;
+}
+.part-five-two{
+    float: left;
+    padding-left: 136px;
+    padding-top: 135px;
+}
+.part-six{
+    width: 100%;
+    height: 950px;
+    background-color: black;
+    display: block;
+    border-bottom: 8px solid #484545;
+    position: relative;
+}
+.button{
+    width: 800px;
+    text-align: left;
+    padding: 10px;
+    color: white;
+    background: #303030;
+    font-weight: 400;
+    font-size: 1.625rem;
+    padding: 0.8em 2.2em 0.8em 1.2em;
+}
+span{
+    
+    
+    float: right;
+    
+    
+}
+.part-seven{
+    width: 100%;
+    height: 400px;
+    background-color: black;
+    display: block;
+    position: relative;
+    color: #737373;
+    margin: auto;
+}
+.line li{
+    padding-left: 75px;
+    padding-top: 23px;
+}
+.line{
+    padding: 60px 0 0 108px
+}
